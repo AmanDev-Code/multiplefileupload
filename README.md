@@ -4,7 +4,7 @@
 #### npm install --save react-scripts, cors, path, nodemon, multer, react, react-toastify, html5-file-selector, express, body-parser, toast, react-dropzone-uploader
 
 #### After cloning the project go to src->components->simple-dropzone.component.js       ---- run this file 'npm start' 
-#### After running the simple-dropzone.component.js file go to root directory and run server.js       ---- run this file 'npm start serve'
+#### After running the simple-dropzone.component.js file go to root directory and run server.js       ---- run this file 'npm run serve' ---- on new terminal as react is running on current terminal
 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
